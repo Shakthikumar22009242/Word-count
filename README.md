@@ -29,8 +29,8 @@ Print the Number of Words and end the program
 ```
 ''' 
 Program to get the word count from a text.
-Developed by: NAVIN KUMAR J
-RegisterNumber: 22009212
+Developed by: Shakthi kumar S
+RegisterNumber: 22009242
 '''
 fname=input("Enter file name: ")
 num_words=0
@@ -42,8 +42,7 @@ print("Number of words: ",num_words)
 ```
 
 ### OUTPUT:
-![CountWordOutput](https://user-images.githubusercontent.com/119477975/214090999-ac03eb50-3977-4c82-94a8-7d3afc4e786d.png)
-![CountWordFile](https://user-images.githubusercontent.com/119477975/214091182-07b7320f-4fba-4908-8bbd-57ade5041ca1.png)
-
+![](word1.png)
+![](word2.png)
 ## RESULT:
 Thus the program is written to find the word count from a text.
